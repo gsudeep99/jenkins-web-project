@@ -1,7 +1,7 @@
 package koddas.web.war;
 
 import java.io.Serializable;
-abc
+
 
 /**
  * MrBean is a simple example of a Java bean; a small class that encapsulates a
